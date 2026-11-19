@@ -1,0 +1,14 @@
+curl-7.81.0.pok
+file-1-5.41.pok
+jq-1.6.pok
+neofetch-7.1.0.pok
+netsurf-1.0.pok
+osfetch-1.1.pok
+python3-3.10.6.pok
+python3-tk-3.10.8.pok
+rsync-3.2.7.pok
+socat-1.7.4.1.pok
+sqlite3-3.37.2.pok
+unzip-6.0.pok
+wget-1.21.2.pok
+zip-3.0.pok
